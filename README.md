@@ -1,6 +1,6 @@
 # Ourobrosu
 
-# 🖐️ Hi, I'm S.K!
+#  S.K
 
 GitHubにお越しいただきありがとうございます！
 
