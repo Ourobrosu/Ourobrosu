@@ -3,7 +3,7 @@
 #  S.K
 
 
-## 🛠️ Skills
+##  Skills
 
 - **Languages & Markup:** Java, HTML
 - **Tools & Documentation:** PowerPoint
